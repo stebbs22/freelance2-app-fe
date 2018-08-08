@@ -1,5 +1,5 @@
 .app-body {
-margin-top: 80px;
+	margin-top: 20px;
 }
 
 .nav-styles {
@@ -11,17 +11,21 @@ margin-top: 80px;
 }
 
 .nav-styles a:hover {
-	color: #c9c9c9;
+	color: #66ccff;
 }
 
 .nav-link.active {
 	color: #e64758 !important;
 }
 
-.dropdown-links a {
+.dropdown-menu a {
 	color: #1a1b22;
 }
 
-.dropdown-links a:hover {
+.dropdown-menu a:hover {
+	color: #66ccff;
+}
+
+.btn-primary:hover {
 	color: #66ccff;
 }
